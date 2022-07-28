@@ -1,4 +1,5 @@
-﻿string result = string.Empty;
+﻿using System; using System.IO;
+string result = string.Empty;
 string[] marks = {"трус", "балбес", "бывалый"};
 for (int i = 0; i < 10; i++)
 {
