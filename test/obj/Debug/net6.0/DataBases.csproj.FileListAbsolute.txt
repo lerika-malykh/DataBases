@@ -1,0 +1,15 @@
+G:\GeekBrains\DataBases\test\bin\Debug\net6.0\DataBases.exe
+G:\GeekBrains\DataBases\test\bin\Debug\net6.0\DataBases.deps.json
+G:\GeekBrains\DataBases\test\bin\Debug\net6.0\DataBases.runtimeconfig.json
+G:\GeekBrains\DataBases\test\bin\Debug\net6.0\DataBases.dll
+G:\GeekBrains\DataBases\test\bin\Debug\net6.0\DataBases.pdb
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.csproj.AssemblyReference.cache
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.AssemblyInfoInputs.cache
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.AssemblyInfo.cs
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.csproj.CoreCompileInputs.cache
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.dll
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\refint\DataBases.dll
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.pdb
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\DataBases.genruntimeconfig.cache
+G:\GeekBrains\DataBases\test\obj\Debug\net6.0\ref\DataBases.dll
